@@ -1,0 +1,40 @@
+{
+"data":[
+{
+"userId": 1,
+"Product Name": "Pen",
+"Price": 100,
+"Tax": 0.5
+},
+{
+"userId": 2,
+"Product Name": "Pencil",
+"Price": 50,
+"Tax": 0.4
+},
+{
+"userId": 3,
+"Product Name": "Bottal",
+"Price": 200,
+"Tax": 10.0
+},
+{
+"userId": 4,
+"Product Name": "Laptop",
+"Price": 3000,
+"Tax": 100.0
+},
+{
+"userId": 5,
+"Product Name": "Book",
+"Price": 150,
+"Tax": 15.0
+},
+{
+"userId": 6,
+"Product Name": "NoteBook",
+"Price": 75,
+"Tax": 0.9
+},
+]
+}
